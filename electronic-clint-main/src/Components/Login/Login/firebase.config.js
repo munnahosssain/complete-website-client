@@ -1,9 +1,9 @@
 const firebaseConfig = {
-    apiKey: "AIzaSyAhE7ik6nTXimK1ogq0AnEKD9VH2XUY3J8",
-    authDomain: "electronic-service-28f58.firebaseapp.com",
-    projectId: "electronic-service-28f58",
-    storageBucket: "electronic-service-28f58.appspot.com",
-    messagingSenderId: "756306397121",
-    appId: "1:756306397121:web:3f7540c83d7a443b685140"
+    apiKey: "AIzaSyClSjCV0wKz6I7e-E2hNMVukJK0nKhNgNw",
+    authDomain: "electronic-repair-2a15c.firebaseapp.com",
+    projectId: "electronic-repair-2a15c",
+    storageBucket: "electronic-repair-2a15c.appspot.com",
+    messagingSenderId: "944710470600",
+    appId: "1:944710470600:web:e4c0202ffe2dbbc1034efd"
 };
 export default firebaseConfig;

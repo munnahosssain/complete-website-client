@@ -1,0 +1,18 @@
+.info-cart{
+    padding: 0 5px;
+}
+.info-info{
+    background-color: rgb(238, 201, 89);
+}
+.info-dark{
+    background-color: rgba(76, 135, 243, 0.712);
+}
+.info-icon{
+    font-size:3em;
+}
+.info-container{
+    height: 40vh;
+    padding: 30px;
+    color: black;
+    border-radius: .25rem;
+}
